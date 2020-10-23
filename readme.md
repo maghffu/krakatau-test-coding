@@ -6,3 +6,7 @@ how to use:
 2. composer install
 3. npm install
 4. run ```php -S localhost:8080 -t .```
+
+### Test
+
+vendor/bin/phpunit --bootstrap vendor/autoload.php test/ModelsTodosTest.php
