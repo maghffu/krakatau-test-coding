@@ -11,7 +11,8 @@
     "require": {
         "bobbynarvy/highway": "^0.5.0",
         "laminas/laminas-diactoros": "^2.4",
-        "laminas/laminas-httphandlerrunner": "^1.2"
+        "laminas/laminas-httphandlerrunner": "^1.2",
+        "phpunit/phpunit": "^9.4"
     },
     "autoload": {
         "psr-4": {
