@@ -1,0 +1,21 @@
+{
+    "name": "uwais/krakatau-steel",
+    "description": "for test purpose",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maghfurin",
+            "email": "furin.xiitkj@gmail.com"
+        }
+    ],
+    "require": {
+        "bobbynarvy/highway": "^0.5.0",
+        "laminas/laminas-diactoros": "^2.4",
+        "laminas/laminas-httphandlerrunner": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
